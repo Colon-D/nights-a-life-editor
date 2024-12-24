@@ -1,0 +1,21 @@
+{
+  "ModId": "nights.test.alifeeditor",
+  "ModName": "A-LIFE Editor",
+  "ModAuthor": "Lily",
+  "ModVersion": "1.0.0",
+  "ModDescription": "ui design is my passion",
+  "ModDll": "nights.test.alifeeditor.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/nights.test.alifeeditor.dll",
+  "ModR2RManagedDll64": "x64/nights.test.alifeeditor.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "nights.test.alifeeditor.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [ "nights.exe" ],
+  "ProjectUrl": ""
+}
